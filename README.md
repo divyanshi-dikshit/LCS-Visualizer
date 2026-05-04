@@ -10,7 +10,7 @@ A GUI-based implementation of the Longest Common Subsequence (LCS) algorithm usi
 - Computes LCS string
 
 ## Preview
-![App Screenshot](screenshot\demo.png)
+![App Screenshot](screenshot/demo.png)
 
 ## Tech Stack
 - Java
